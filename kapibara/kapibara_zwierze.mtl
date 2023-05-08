@@ -1,0 +1,26 @@
+# Blender 3.5.1 MTL File: 'kapibaraZWIERZE.blend'
+# www.blender.org
+
+newmtl PM3D_Sphere3D1
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ni 1.450000
+illum 3
+map_Kd kapibaraZwierze/PM3D_Sphere3D1_BaseColor.png
+map_Ns kapibaraZwierze/PM3D_Sphere3D1_Roughness.png
+map_refl kapibaraZwierze/PM3D_Sphere3D1_Metallic.png
+map_Ke kapibaraZwierze/PM3D_Sphere3D1_Emission.png
+map_d kapibaraZwierze/PM3D_Sphere3D1_Alpha.png
+map_Bump -bm 1.000000 kapibaraZwierze/PM3D_Sphere3D1_Normal.png
+
+newmtl PM3D_kapibaraZWIERZE
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ni 1.450000
+illum 3
+map_Kd kapibaraZwierze/PM3D_kapibaraZWIERZE_BaseColor.png
+map_Ns kapibaraZwierze/PM3D_kapibaraZWIERZE_Roughness.png
+map_refl kapibaraZwierze/PM3D_kapibaraZWIERZE_Metallic.png
+map_Ke kapibaraZwierze/PM3D_kapibaraZWIERZE_Emission.png
+map_d kapibaraZwierze/PM3D_kapibaraZWIERZE_Alpha.png
+map_Bump -bm 1.000000 kapibaraZwierze/PM3D_kapibaraZWIERZE_Normal.png

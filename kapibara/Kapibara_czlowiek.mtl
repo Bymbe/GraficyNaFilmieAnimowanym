@@ -1,0 +1,24 @@
+# Blender 3.5.1 MTL File: 'kapibara.blend'
+# www.blender.org
+
+newmtl PM3D_Sphere3D1
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ni 1.450000
+illum 3
+map_Kd kapibaraZwierze/PM3D_Sphere3D1_BaseColor.png
+map_Ns kapibaraZwierze/PM3D_Sphere3D1_Roughness.png
+map_Ke kapibaraZwierze/PM3D_Sphere3D1_Emission.png
+map_d kapibaraZwierze/PM3D_Sphere3D1_Alpha.png
+
+newmtl kapibara
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.450000
+illum 2
+map_Kd kapibaraZwierze/kapibara_BaseColor.png
+map_Ns kapibaraZwierze/kapibara_Roughness.png
+map_refl kapibaraZwierze/kapibara_Metallic.png
+map_Ke kapibaraZwierze/kapibara_Emission.png
+map_d kapibaraZwierze/kapibara_Alpha.png
+map_Bump -bm 1.000000 kapibaraZwierze/kapibara_Normal.png
